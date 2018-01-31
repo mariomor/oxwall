@@ -1,7 +1,7 @@
 <?php
 
 /**
- * EXHIBIT A. Common Public Attribution License Version 1.0
+ * EXHIBIT A. Common Public Attribution License Version 1.0 mmmm
  * The contents of this file are subject to the Common Public Attribution License Version 1.0 (the “License”);
  * you may not use this file except in compliance with the License. You may obtain a copy of the License at
  * http://www.oxwall.org/license. The License is based on the Mozilla Public License Version 1.1
